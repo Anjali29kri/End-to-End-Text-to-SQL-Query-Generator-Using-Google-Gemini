@@ -1,5 +1,3 @@
-# End-to-End-Text-to-SQL-Query-Generator-Using-Google-Gemini
-The Gemini-Powered Text-To-SQL Converter project integrates the Gemini language model to facilitate the conversion of natural language queries into SQL commands.
 # End-to-End-Text-to-SQL-Query-Generator-Using-Google-Gemini 📊
 
 This project provides a user-friendly interface to generate SQL queries from natural language descriptions. It utilizes the Gemini AI model from Google AI and connects to a local SQLite database named "student.db".
